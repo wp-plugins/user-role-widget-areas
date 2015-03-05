@@ -4,6 +4,7 @@ Plugin Name: User Role Widget Areas
 Plugin URI: 
 Version: 1.2 
 Author: Rob Smelik
+Contributors: Rob Smelik
 Author URI: http://www.robsmelik.com
 Tags: sidebar, widget area, widget, user, role, logged in, logged out, admin, administrator, editor, author, contributor, subscriber, shortcode, post, page
 Requires at least: 3.9
