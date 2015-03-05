@@ -2,12 +2,13 @@
 
 Plugin Name: User Role Widget Areas
 Plugin URI: 
-Version: 1.1
+Version: 1.2 
 Author: Rob Smelik
 Author URI: http://www.robsmelik.com
 Tags: sidebar, widget area, widget, user, role, logged in, logged out, admin, administrator, editor, author, contributor, subscriber, shortcode, post, page
 Requires at least: 3.9
 Tested up to: 4.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,6 +98,10 @@ Each role based widget area gets wrapped in a unique ID allowing advanced users 
 
 == CHANGELOG ==
 
+
+= 1.2 =
+
+* Minor updates to documentation
 
 = 1.1 =
 
