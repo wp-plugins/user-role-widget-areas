@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: User Role Widget Area
-Description: This plugin allows you to selectively display content in your themes active widget areas based on the user roles (Administrator, Editor, Author, Contributor or Subscriber) of logged in users. It also comes with two user status based widget areas for displaying content to all logged in users or all logged out users. All user role and status based widget areas can be displayed in any existing sidebar or widget area within your theme.
-Version: 1.1
+Description: Selectively display widgets to logged in users based on standard WordPress user roles.
+Version: 1.2
 Requires at least: 3.9
 Tested up to: 4.1
-Stable Tag: 1.0
+Stable Tag: 1.2
 Author: Rob Smelik
 Author URI: http://www.robsmelik.com
 License: GPLv2
